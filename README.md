@@ -1,2 +1,2 @@
 # omen
-# GitHub repo for the Omen Discord bot website.
+## GitHub repo for the Omen Discord bot website.
