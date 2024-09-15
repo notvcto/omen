@@ -10,9 +10,16 @@ const About = () => {
         <div className="about-container">
           <div className="about-card">
             <div>
-              <h4 className="h-color">⚡ Commands</h4>
+              <h4 className="h-color">⚡ Lightning fast response time</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                The bot will never fall behind, even with the most taxing tasks.
+              </p>
+              <hr />
+            </div>
+            <div>
+              <h4 className="h-color">⚙️ Commands</h4>
+              <p className="p-color">
+                The bot has 500+ commands, and a 30+ categories.
               </p>
               <hr />
             </div>
@@ -41,16 +48,16 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">17k+</h4>
+            <h4 className="h-color">7</h4>
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">94k+</h4>
+            <h4 className="h-color">293</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">375k+</h4>
-            <p className="p-color">Total Commands</p>
+            <h4 className="h-color">219</h4>
+            <p className="p-color">Total Channels</p>
           </div>
         </section>
       </section>
