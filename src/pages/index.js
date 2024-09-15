@@ -16,10 +16,10 @@ export default function Home() {
         <title>OMEN</title>
         <meta
           name="description"
-          content="Minimal and awesome discord bot website created with ❤️ using NextJS"
+          content="OMEN, the only bot you'll ever need"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut-icon" href="/public/favicon.ico" />
+        <link rel="shortcut-icon" href="./favicon.ico" />
       </Head>
       <Navbar />
       <Showcase />
