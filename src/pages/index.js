@@ -19,7 +19,10 @@ export default function Home() {
           content="OMEN, the only bot you'll ever need"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut-icon" href="/omen/favicon.ico" />
+        <link
+          rel="shortcut-icon"
+          href="https://notvcto.github.io/omen/favicon.ico"
+        />
       </Head>
       <Navbar />
       <Showcase />
