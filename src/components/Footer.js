@@ -65,7 +65,10 @@ const Footer = () => {
             <p className="p-color">{year} &copy; All rights reserved!</p>
           </div>
           <div className="footer-sec2-link">
-            <Link className="p-color no-decoration" href="#">
+            <Link
+              className="p-color no-decoration"
+              href="https://buymeacoffee.com/vcto"
+            >
               /buy me a coffee
             </Link>
             <Link
@@ -75,7 +78,10 @@ const Footer = () => {
             >
               /source-code
             </Link>
-            <Link className="p-color no-decoration" href="#">
+            <Link
+              className="p-color no-decoration"
+              href="https://discord.gg/3Hv6EYUETt"
+            >
               /support
             </Link>
           </div>
