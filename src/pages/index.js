@@ -19,7 +19,7 @@ export default function Home() {
           content="Minimal and awesome discord bot website created with ❤️ using NextJS"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut-icon" href="/public/botlogo.png" />
+        <link rel="shortcut-icon" href="/public/favicon.ico" />
       </Head>
       <Navbar />
       <Showcase />
