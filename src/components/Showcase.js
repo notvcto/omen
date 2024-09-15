@@ -22,13 +22,19 @@ const Showcase = () => {
         <span className="p-color">Omen is online!</span>
         <div className="showcase-btn">
           <button className="btn">
-            <Link className="h-color no-decoration" href="https://discord.com/oauth2/authorize?client_id=1185264756194549822&permissions=1377039810039&integration_type=0&scope=applications.commands+bot">
+            <Link
+              className="h-color no-decoration"
+              href="https://discord.com/oauth2/authorize?client_id=1185264756194549822&permissions=1377039810039&integration_type=0&scope=applications.commands+bot"
+            >
               Invite now!
             </Link>
           </button>
 
           <button className="btn">
-            <Link className="h-color no-decoration" href="#">
+            <Link
+              className="h-color no-decoration"
+              href="https://discord.gg/3Hv6EYUETt"
+            >
               Join server!
             </Link>
           </button>
