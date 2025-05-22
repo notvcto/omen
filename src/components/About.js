@@ -48,15 +48,15 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">7</h4>
+            <h4 className="h-color">4</h4>
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">293</h4>
+            <h4 className="h-color">156</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">219</h4>
+            <h4 className="h-color">223</h4>
             <p className="p-color">Total Channels</p>
           </div>
         </section>
