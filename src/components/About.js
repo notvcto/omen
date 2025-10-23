@@ -19,7 +19,7 @@ const About = () => {
             <div>
               <h4 className="h-color">⚙️ Commands</h4>
               <p className="p-color">
-                The bot has 500+ commands, and a 30+ categories.
+                The bot has 500+ commands, and 30+ categories.
               </p>
               <hr />
             </div>
