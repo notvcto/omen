@@ -52,11 +52,11 @@ const About = () => {
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">156</h4>
+            <h4 className="h-color">472</h4>
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">223</h4>
+            <h4 className="h-color">182</h4>
             <p className="p-color">Total Channels</p>
           </div>
         </section>
